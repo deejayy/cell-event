@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Ez csak a helló. ŰŐ</string>
+    <string name="app_name">Cell Event</string>
+    <string name="btn1text">Start</string>
+    <string name="btn2text">Stop</string>
+</resources>
